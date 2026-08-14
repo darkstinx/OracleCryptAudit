@@ -4,7 +4,7 @@ Herramienta en Python para auditar la postura de cifrado y protección de datos 
 
 ## Motivación
 
-La mayoría de herramientas de seguridad para bases de datos están hechas por gente sin experiencia real como DBA, y suelen quedarse en comprobaciones superficiales (usuarios con privilegios, contraseñas por defecto). Este proyecto nace de la intersección entre experiencia real como DBA Oracle en banca y un roadmap activo hacia ciberseguridad: audita específicamente lo que un DBA de Oracle sabe que importa de verdad en materia de cifrado, con el nivel de detalle que solo da haber administrado estas bases de datos en producción.
+Ya que actualmente me encuentro en un puesto como DBA Junior transicionando hacia la ciberseguridad, me he planteado este proyecto para poder juntar los dos mundos y sacar algo interesante.
 
 ## Qué audita
 
