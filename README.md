@@ -56,6 +56,11 @@ Cada check devuelve una lista de objetos `Finding` (severidad, descripción, det
 python3 test_check.py
 ```
 
+## Demostración de uso
+
+<img width="1448" height="489" alt="image" src="https://github.com/user-attachments/assets/75294edf-101c-4a74-8ccc-207e8172cbfa" />
+
+
 Cada hallazgo se muestra con severidad (`CRITICAL`/`HIGH`/`MEDIUM`/`INFO`), si pasó o no el check, descripción, detalle técnico y recomendación cuando aplica.
 
 ## Limitaciones conocidas
